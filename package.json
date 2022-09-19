@@ -3,8 +3,8 @@
 	"author": "Manuel Morales",
 	"description": "A project that does something awesome",
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
-	
 	"license": "Testing",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
